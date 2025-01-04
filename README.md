@@ -7,3 +7,5 @@ CakePHP 5 Translation Plugin, Easily Manage your website in multiple languages i
 Demo & Features: https://cakephp5-translation.ektanjali.com/
 
 Download: https://www.codinghotspot.com/item/cakephp-5.x-translation-plugin/16
+
+Last tested on 04-Jan-2025
